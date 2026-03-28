@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \"^libraries$\")",
+      "Bash(grep -v \"^CLAUDE.md$\")",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/3d_stepper/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/AnalogRead_Modified/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/BT_Serial/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/DEL/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/HelloServer/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/HelloServer_shta/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/HelloWorld/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/LightX/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/SIPO_1/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/SIPO_1_nd_ir/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/SIPO_1_nd_ir_and_lcd/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/SIPO_2_nd_ir_3_4_17/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/SIPO_using_74595/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/STEP_21/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/SendAnEmail_temboo/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/WiFiWebServer/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/_2_tsop/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/_2_way_trial/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/_7447/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/abhi/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/analog_read/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/analogcommosci/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/analogcommosci1/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/analogread/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/attinyBluetooth/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/attinyserial/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/bluetooh_led/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/bluetooth/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/chetan_proj/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/delay/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/diff_method/README.md\":*)",
+      "Bash(\"C:/Users/Kshn/Documents/Arduino/electronicscomplete1/README.md\":*)"
+    ]
+  }
+}
